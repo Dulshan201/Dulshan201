@@ -1,6 +1,5 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulshan+Gunarathna;Computer+Science+Undergraduate+@+UCSC)](https://git.io/typing-svg)
-
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dulshan201&label=Profile%20views&color=0e75b6&style=flat" alt="Dulshan201" />
@@ -9,14 +8,13 @@
 ---
 
 ## 👨‍💻 About Me
-
-I'm *Dulshan Gunarathna, a **3rd-year Computer Science undergraduate* at the *University of Colombo School of Computing (UCSC)*.
+I'm *Dulshan Gunarathna*, a **3rd-year Computer Science undergraduate** at the *University of Colombo School of Computing (UCSC)*.
 
 💡 Passionate about *Machine Learning* and *Generative AI*, with growing expertise in:  
 - 📊 *Data Science* & *Data Analytics*  
 - 🌐 *Full-Stack Development*
 
-📈 I have a strong foundation in *financial reporting, **business strategy, and **data-driven decision-making, which enables me to think critically at the intersection of **technology and business. I'm also keenly interested in **project management* and *strategic execution*.
+📈 I have a strong foundation in *financial reporting*, **business strategy**, and **data-driven decision-making**, which enables me to think critically at the intersection of **technology and business**. I'm also keenly interested in **project management** and *strategic execution*.
 
 ---
 
@@ -32,14 +30,13 @@ I'm *Dulshan Gunarathna, a **3rd-year Computer Science undergraduate* at the *Un
 ### 🛠 Tools & IDEs
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,autocad,figma,linux,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,r,visualstudio,wordpress,pycharm,jupyter,unity" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,autocad,figma,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,visualstudio,wordpress,pycharm,jupyter,unity" />
   </a>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/dulshan-gunarathna-417099282" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -52,12 +49,11 @@ I'm *Dulshan Gunarathna, a **3rd-year Computer Science undergraduate* at the *Un
   </a>
 </p>
 
-📱 *Contact:* +94 74 195 888 3,+94 70 408 597 2
+📱 *Contact:* +94 74 195 888 3, +94 70 408 597 2
 
 ---
 
 ## 📊 GitHub Stats
-
 <!-- Profile Summary Card -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulshan201&theme=monokai)
 
