@@ -48,7 +48,7 @@ I'm *Dulshan Gunarathna*, a **3rd-year Computer Science undergraduate** at the *
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://link.me/dulshan201" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Link.me Profile" height="30" width="40" />
+    🔗 Link.me
   </a>
 </p>
 
