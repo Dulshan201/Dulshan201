@@ -47,10 +47,9 @@ I'm *Dulshan Gunarathna*, a **3rd-year Computer Science undergraduate** at the *
   <a href="https://www.instagram.com/dulshan201/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://link.me/dulshan201" target="_blank">
-    🔗 Link.me
-  </a>
 </p>
+
+🔗 **Link.me Profile:** [link.me/dulshan201](https://link.me/dulshan201)
 
 📱 *Contact:* +94 74 195 888 3, +94 70 408 597 2
 
