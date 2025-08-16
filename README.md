@@ -23,14 +23,14 @@ I'm *Dulshan Gunarathna*, a **3rd-year Computer Science undergraduate** at the *
 ### 🖥 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,dart,flutter,py,linux,scala,r,react,mongodb,spring,nodejs,javascript,express,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,java,mysql,dart,flutter,py,linux,scala,r,react,mongodb,spring,nodejs,javascript,express,php" />
   </a>
 </p>
 
 ### 🛠 Tools & IDEs
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,autocad,figma,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,visualstudio,wordpress,pycharm,jupyter,unity" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,autocad,figma,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,visualstudio,wordpress,pycharm,jupyter" />
   </a>
 </p>
 
