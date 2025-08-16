@@ -47,6 +47,9 @@ I'm *Dulshan Gunarathna*, a **3rd-year Computer Science undergraduate** at the *
   <a href="https://www.instagram.com/dulshan201/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://stackoverflow.com/users/31287104/dulshan-gunarathna" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
 </p>
 
 🔗 **Link.me Profile:** [link.me/dulshan201](https://link.me/dulshan201)
