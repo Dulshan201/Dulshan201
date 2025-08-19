@@ -39,18 +39,20 @@ I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the Unive
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linktr.ee/dulshan201" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-</p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/dulshan-gunarathna-417099282" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/share/1BDw8ZeYtb/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/dulshan201/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/31287104/dulshan-gunarathna" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+</p>="30" width="40" />
   </a>
   <a href="https://www.instagram.com/dulshan201/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
