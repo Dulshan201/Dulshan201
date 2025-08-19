@@ -1,5 +1,6 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulshan+Gunarathna;Computer+Science+Undergraduate+@+UCSC)](https://git.io/typing-svg)
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dulshan201&label=Profile%20views&color=0e75b6&style=flat" alt="Dulshan201" />
@@ -37,6 +38,14 @@ I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the Unive
 ---
 
 ## 🌐 Connect with Me
+
+### 🔗 All Links in One Place
+<p align="center">
+  <a href="https://linktr.ee/dulshan201" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dulshan-gunarathna-417099282" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -49,11 +58,13 @@ I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the Unive
   </a>
 </p>
 
-📱 Contact: +94 74 195 888 3, +94 70 408 597 2
+📱 **Contact:** +94 74 195 888 3, +94 70 408 597 2  
+🔗 **All Links:** [linktr.ee/dulshan201](https://linktr.ee/dulshan201)
 
 ---
 
 ## 📊 GitHub Stats
+
 <!-- Profile Summary Card -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dulshan201&theme=monokai)
 
