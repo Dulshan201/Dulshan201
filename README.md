@@ -55,7 +55,7 @@ I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the Unive
 </p>
 
 📱 **Contact:** +94 74 195 888 3, +94 70 408 597 2  
-[linktr.ee/dulshan201](https://linktr.ee/dulshan201)
+[link.me/dulshan201](https://link.me/dulshan201)
 
 ---
 
