@@ -6,11 +6,11 @@
 </p>
 ---
 ## 👨‍💻 About Me
-I'm Dulshan Gunarathna, a 3rd-year Computer Science undergraduate at the University of Colombo School of Computing (UCSC).
-💡 Passionate about Machine Learning and Generative AI, with growing expertise in:  
-- 📊 Data Science & Data Analytics  
-- 🌐 Full-Stack Development
-📈 I have a strong foundation in financial reporting, business strategy, and data-driven decision-making, which enables me to think critically at the intersection of technology and business. I'm also keenly interested in project management and strategic execution.
+I'm *Dulshan Gunarathna*, a **3rd-year Computer Science undergraduate** at the *University of Colombo School of Computing (UCSC)*.
+💡 Passionate about *Machine Learning* and *Generative AI*, with growing expertise in:  
+- 📊 *Data Science* & *Data Analytics*  
+- 🌐 *Full-Stack Development*
+📈 I have a strong foundation in *financial reporting*, **business strategy**, and **data-driven decision-making**, which enables me to think critically at the intersection of **technology and business**. I'm also keenly interested in **project management** and *strategic execution*.
 ---
 ## 🔧 Tech Stack
 ### 🖥 Languages & Frameworks
@@ -41,8 +41,8 @@ I'm Dulshan Gunarathna, a 3rd-year Computer Science undergraduate at the Univers
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
 </p>
-🔗 Link.me Profile: [link.me/dulshan201](https://link.me/dulshan201)
-📱 Contact: +94 74 195 888 3, +94 70 408 597 2
+🔗 **Link.me Profile:** [link.me/dulshan201](https://link.me/dulshan201)
+📱 *Contact:* +94 74 195 888 3, +94 70 408 597 2
 ---
 ## 📊 GitHub Stats
 <!-- Profile Summary Card -->
@@ -56,3 +56,4 @@ I'm Dulshan Gunarathna, a 3rd-year Computer Science undergraduate at the Univers
 <!---
 Dulshan201/Dulshan201 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 --->
+ add badges
