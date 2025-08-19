@@ -39,7 +39,6 @@ I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the Unive
 
 ## 🌐 Connect with Me
 
-🔗 All Links in One Place
 <p align="center">
   <a href="https://linktr.ee/dulshan201" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
