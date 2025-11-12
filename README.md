@@ -6,33 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=Dulshan201&label=Profile%20views&color=0e75b6&style=flat" alt="Dulshan201" />
 </p>
 
-<!-- Sponsor Button -->
-<p align="left">
-  <a href="https://github.com/sponsors/Dulshan201" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github" alt="Sponsor Dulshan201" />
-  </a>
-  <a href="https://www.patreon.com/dulshan201" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-  </a>
-  <a href="https://ko-fi.com/dulshan201" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://www.buymeacoffee.com/dulshan201" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
-
-I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the University of Colombo School of Computing (UCSC).
+I'm Dulshan Gunarathna, a 3rd-year Computer Science undergraduate at the University of Colombo School of Computing (UCSC).
 
 💡 Passionate about Machine Learning and Generative AI, with growing expertise in:  
 - 📊 Data Science & Data Analytics  
 - 🌐 Full-Stack Development
 
-📈 I have a strong foundation in financial reporting, *business strategy, and **data-driven decision-making, which enables me to think critically at the intersection of **technology and business. I'm also keenly interested in **project management* and strategic execution.
+📈 I have a strong foundation in financial reporting, business strategy, and **data-driven decision-making, which enables me to think critically at the intersection of **technology and business. I'm also keenly interested in **project management and strategic execution.
 
 ---
 
@@ -71,7 +54,7 @@ I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the Unive
   </a>
 </p>
 
-📱 **Contact:** +94 74 195 888 3, +94 70 408 597 2  
+📱 *Contact:* +94 74 195 888 3, +94 70 408 597 2  
 [link.me/dulshan201](https://link.me/dulshan201)
 
 ---
