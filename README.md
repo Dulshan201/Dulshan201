@@ -6,9 +6,26 @@
   <img src="https://komarev.com/ghpvc/?username=Dulshan201&label=Profile%20views&color=0e75b6&style=flat" alt="Dulshan201" />
 </p>
 
+<!-- Sponsor Button -->
+<p align="left">
+  <a href="https://github.com/sponsors/Dulshan201" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github" alt="Sponsor Dulshan201" />
+  </a>
+  <a href="https://www.patreon.com/dulshan201" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+  <a href="https://ko-fi.com/dulshan201" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  <a href="https://www.buymeacoffee.com/dulshan201" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
+
 I'm Dulshan Gunarathna, a *3rd-year Computer Science undergraduate* at the University of Colombo School of Computing (UCSC).
 
 💡 Passionate about Machine Learning and Generative AI, with growing expertise in:  
